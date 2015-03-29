@@ -12,4 +12,11 @@
     "color": "red",
     "type": "sweet",
     "year_made": 2008
+}, {
+    "name": "Albert Boxler Edelzwicker Reserve",
+    "stars": 5,
+    "country": "France",
+    "color": "white",
+    "type": "sweet",
+    "year_made": 2012
 }]
