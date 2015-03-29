@@ -19,4 +19,11 @@
     "color": "white",
     "type": "sweet",
     "year_made": 2012
+}, {
+    "name": "Campo Viejo Garnacha",
+    "stars": 2,
+    "country": "Spain",
+    "color": "red",
+    "type": "sweet/dry",
+    "year_made": 2012
 }]
