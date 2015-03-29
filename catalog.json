@@ -3,5 +3,6 @@
     "stars": 5,
     "country": "Italy",
     "color": "red",
-    "type": "sweet"
+    "type": "sweet",
+    "year_made": 2015
 }]
