@@ -54,4 +54,11 @@
     "color": "red",
     "grapes": ["brachetto"],
     "year_made": 2014
+}, {
+    "name": "Cavit Pinot Noir",
+    "stars": 4,
+    "country": "Italy",
+    "color": "red",
+    "grapes": ["pinot noir"],
+    "year_made": 2014
 }]
