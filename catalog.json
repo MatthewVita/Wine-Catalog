@@ -61,4 +61,11 @@
     "color": "red",
     "grapes": ["pinot noir"],
     "year_made": 2014
+}, {
+    "name": "Yellowtail Shiraz Grenache",
+    "stars": 5,
+    "country": "Australia",
+    "color": "red",
+    "grapes": ["shiraz", "grenache"],
+    "year_made": 2015
 }]
