@@ -3,55 +3,55 @@
     "stars": 5,
     "country": "Italy",
     "color": "red",
-    "type": "sweet",
+    "grapes": ["teroldego", "lagrein"],
     "year_made": 2015
 }, {
     "name": "Marchesi Mazzei Zisola Doppiozeta Noto Rosso",
     "stars": 5,
     "country": "Italy",
     "color": "red",
-    "type": "sweet",
+    "grapes": ["nero d'avola", "shiraz", "cabernet franc"],
     "year_made": 2008
 }, {
     "name": "Albert Boxler Edelzwicker Reserve",
     "stars": 5,
     "country": "France",
     "color": "white",
-    "type": "sweet",
+    "grapes": ["pinot blanc", "riesling", "muscat", "chasselas"],
     "year_made": 2012
 }, {
     "name": "Campo Viejo Garnacha",
     "stars": 2,
     "country": "Spain",
     "color": "red",
-    "type": "sweet/dry",
+    "grapes": ["grenache"],
     "year_made": 2012
 }, {
     "name": "Robert Mondavi Twin Oaks Shiraz",
     "stars": 4,
     "country": "United States",
     "color": "red",
-    "type": "sweet",
+    "grapes": ["shiraz"],
     "year_made": 2013
 }, {
     "name": "Yellowtail Sweet Red Roo",
     "stars": 5,
     "country": "Australia",
     "color": "red",
-    "type": "sweet",
+    "grapes": ["shiraz", "cabernet sauvignon"],
     "year_made": 2015
 }, {
     "name": "Elmo Pio Moscato",
     "stars": 3,
     "country": "Italy",
     "color": "white",
-    "type": "sweet",
+    "grapes": ["moscato"],
     "year_made": 2014
 }, {
     "name": "Elmo Pio Piemonte Sweet Red Brachetto",
     "stars": 4,
     "country": "Italy",
     "color": "red",
-    "type": "sweet",
+    "grapes": ["brachetto"],
     "year_made": 2014
 }]
