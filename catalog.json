@@ -116,5 +116,16 @@
       "shiraz"
     ],
     "year_made":2013
+  },
+  {
+    "name":"Bully Hill Vineyards Love My Goat",
+    "stars":3,
+    "country":"United States",
+    "color":"red",
+    "grapes":[
+      "baco noir",
+      "foch"
+    ],
+    "year_made":2012
   }
 ]
