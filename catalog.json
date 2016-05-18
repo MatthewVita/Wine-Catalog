@@ -150,5 +150,17 @@
     ],
     "year_made": 2012,
     "region": "Tuscany"
+  },
+  {
+    "name": "Los Vascos Rose",
+    "stars": 4,
+    "country": "Chile",
+    "color": "red",
+    "grapes": [
+      "cabernet sauvignon",
+      "shiraz"
+    ],
+    "year_made": 2015,
+    "region": "Colchagua"
   }
 ]
