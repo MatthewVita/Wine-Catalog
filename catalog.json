@@ -162,5 +162,16 @@
     ],
     "year_made": 2015,
     "region": "Colchagua"
+  },
+  {
+    "name": "Encanto Mencia Roble",
+    "stars": 5,
+    "country": "Spain",
+    "color": "red",
+    "grapes": [
+      "mencia"
+    ],
+    "year_made": 2011,
+    "region": "Bierzo"
   }
 ]
