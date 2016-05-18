@@ -1,131 +1,143 @@
 [
   {
-    "name":"Roscato Rosse Dolce",
-    "stars":5,
-    "country":"Italy",
-    "color":"red",
-    "grapes":[
+    "name": "Roscato Rosse Dolce",
+    "stars": 5,
+    "country": "Italy",
+    "color": "red",
+    "grapes": [
       "teroldego",
       "lagrein"
     ],
-    "year_made":2015
+    "year_made" :2015,
+    "region": "not captured"
   },
   {
-    "name":"Marchesi Mazzei Zisola Doppiozeta Noto Rosso",
-    "stars":5,
-    "country":"Italy",
-    "color":"red",
-    "grapes":[
+    "name": "Marchesi Mazzei Zisola Doppiozeta Noto Rosso",
+    "stars": 5,
+    "country": "Italy",
+    "color": "red",
+    "grapes": [
       "nero d'avola",
       "shiraz",
       "cabernet franc"
     ],
-    "year_made":2008
+    "year_made": 2008,
+    "region": "not captured"
   },
   {
-    "name":"Albert Boxler Edelzwicker Reserve",
-    "stars":5,
-    "country":"France",
-    "color":"white",
-    "grapes":[
+    "name": "Albert Boxler Edelzwicker Reserve",
+    "stars": 5,
+    "country": "France",
+    "color": "white",
+    "grapes": [
       "pinot blanc",
       "riesling",
       "muscat",
       "chasselas"
     ],
-    "year_made":2012
+    "year_made": 2012,
+    "region": "not captured"
   },
   {
-    "name":"Campo Viejo Garnacha",
-    "stars":2,
-    "country":"Spain",
-    "color":"red",
-    "grapes":[
+    "name": "Campo Viejo Garnacha",
+    "stars": 2,
+    "country": "Spain",
+    "color": "red",
+    "grapes": [
       "grenache"
     ],
-    "year_made":2012
+    "year_made": 2012,
+    "region": "not captured"
   },
   {
-    "name":"Robert Mondavi Twin Oaks Shiraz",
-    "stars":4,
-    "country":"United States",
-    "color":"red",
-    "grapes":[
+    "name": "Robert Mondavi Twin Oaks Shiraz",
+    "stars": 4,
+    "country": "United States",
+    "color": "red",
+    "grapes": [
       "shiraz"
     ],
-    "year_made":2013
+    "year_made": 2013,
+    "region": "not captured"
   },
   {
-    "name":"Yellowtail Sweet Red Roo",
-    "stars":5,
-    "country":"Australia",
-    "color":"red",
-    "grapes":[
+    "name": "Yellowtail Sweet Red Roo",
+    "stars": 5,
+    "country": "Australia",
+    "color": "red",
+    "grapes": [
       "shiraz",
       "cabernet sauvignon"
     ],
-    "year_made":2015
+    "year_made": 2015,
+    "region": "not captured"
   },
   {
-    "name":"Elmo Pio Moscato",
-    "stars":3,
-    "country":"Italy",
-    "color":"white",
-    "grapes":[
+    "name": "Elmo Pio Moscato",
+    "stars": 3,
+    "country": "Italy",
+    "color": "white",
+    "grapes": [
       "moscato"
     ],
-    "year_made":2014
+    "year_made": 2014,
+    "region": "not captured"
   },
   {
-    "name":"Elmo Pio Piemonte Sweet Red Brachetto",
-    "stars":4,
-    "country":"Italy",
-    "color":"red",
-    "grapes":[
+    "name": "Elmo Pio Piemonte Sweet Red Brachetto",
+    "stars": 4,
+    "country": "Italy",
+    "color": "red",
+    "grapes": [
       "brachetto"
     ],
-    "year_made":2014
+    "year_made": 2014,
+    "region": "not captured"
   },
   {
-    "name":"Cavit Pinot Noir",
-    "stars":4,
-    "country":"Italy",
-    "color":"red",
-    "grapes":[
+    "name": "Cavit Pinot Noir",
+    "stars": 4,
+    "country": "Italy",
+    "color": "red",
+    "grapes": [
       "pinot noir"
     ],
-    "year_made":2014
+    "year_made": 2014,
+    "region": "not captured"
   },
   {
-    "name":"Yellowtail Shiraz Grenache",
-    "stars":5,
-    "country":"Australia",
-    "color":"red",
-    "grapes":[
+    "name": "Yellowtail Shiraz Grenache",
+    "stars": 5,
+    "country": "Australia",
+    "color": "red",
+    "grapes": [
       "shiraz",
       "grenache"
     ],
-    "year_made":2015
+    "year_made": 2015,
+    "region": "not captured"
   },
   {
-    "name":"FAT bastard Shiraz",
-    "stars":4,
-    "country":"France",
-    "color":"red",
-    "grapes":[
+    "name": "FAT bastard Shiraz",
+    "stars": 4,
+    "country": "France",
+    "color": "red",
+    "grapes": [
       "shiraz"
     ],
-    "year_made":2013
+    "year_made": 2013,
+    "region": "not captured"
   },
   {
-    "name":"Bully Hill Vineyards Love My Goat",
-    "stars":3,
-    "country":"United States",
-    "color":"red",
-    "grapes":[
+    "name": "Bully Hill Vineyards Love My Goat",
+    "stars": 3,
+    "country": "United States",
+    "color": "red",
+    "grapes": [
       "baco noir",
       "foch"
     ],
-    "year_made":2012
+    "year_made": 2012,
+    "region": "not captured"
   }
 ]
