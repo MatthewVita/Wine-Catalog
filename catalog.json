@@ -195,5 +195,16 @@
     ],
     "year_made": "not captured",
     "region": "Penedes"
+  },
+  {
+    "name": "Menage a Trois Merlot",
+    "stars": 4,
+    "country": "California",
+    "color": "red",
+    "grapes": [
+      "merlot"
+    ],
+    "year_made": 2014,
+    "region": "various California vineyards"
   }
 ]
