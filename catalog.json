@@ -173,5 +173,16 @@
     ],
     "year_made": 2011,
     "region": "Bierzo"
+  },
+  {
+    "name": "Yellowtail Cabernet Sauvignon",
+    "stars": 1,
+    "country": "Australia",
+    "color": "red",
+    "grapes": [
+      "cabernet sauvignon"
+    ],
+    "year_made": 2015,
+    "region": "not captured"
   }
 ]
