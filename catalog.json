@@ -184,5 +184,16 @@
     ],
     "year_made": 2015,
     "region": "not captured"
+  },
+  {
+    "name": "Love Over Money Basca",
+    "stars": 5,
+    "country": "Spain",
+    "color": "sparkling white",
+    "grapes": [
+      "cava blend"
+    ],
+    "year_made": "not captured",
+    "region": "Penedes"
   }
 ]
