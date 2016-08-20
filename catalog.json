@@ -52,7 +52,7 @@
   {
     "name": "Robert Mondavi Twin Oaks Shiraz",
     "stars": 4,
-    "country": "United States",
+    "country": "United States (CA)",
     "color": "red",
     "grapes": [
       "shiraz"
@@ -131,7 +131,7 @@
   {
     "name": "Bully Hill Vineyards Love My Goat",
     "stars": 3,
-    "country": "United States",
+    "country": "United States (NY)",
     "color": "red",
     "grapes": [
       "baco noir",
@@ -199,7 +199,7 @@
   {
     "name": "Menage a Trois Merlot",
     "stars": 4,
-    "country": "California",
+    "country": "United States (CA)",
     "color": "red",
     "grapes": [
       "merlot"
