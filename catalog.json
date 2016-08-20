@@ -230,5 +230,16 @@
     ],
     "year_made": 2014,
     "region": "IGT delle Venezie"
+  },
+  {
+    "name": "HRM Rex Goliath Chardonnay",
+    "stars": 4.5,
+    "country": "United States (CA)",
+    "color": "white",
+    "grapes": [
+      "chardonnay"
+    ],
+    "year_made": 2015,
+    "region": "Madera"
   }
 ]
