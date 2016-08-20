@@ -9,7 +9,8 @@
       "lagrein"
     ],
     "year_made" :2015,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Marchesi Mazzei Zisola Doppiozeta Noto Rosso",
@@ -22,7 +23,8 @@
       "cabernet franc"
     ],
     "year_made": 2008,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Albert Boxler Edelzwicker Reserve",
@@ -36,7 +38,8 @@
       "chasselas"
     ],
     "year_made": 2012,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Campo Viejo Garnacha",
@@ -47,7 +50,8 @@
       "grenache"
     ],
     "year_made": 2012,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Robert Mondavi Twin Oaks Shiraz",
@@ -58,7 +62,8 @@
       "shiraz"
     ],
     "year_made": 2013,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Yellowtail Sweet Red Roo",
@@ -70,7 +75,8 @@
       "cabernet sauvignon"
     ],
     "year_made": 2015,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Elmo Pio Moscato",
@@ -81,7 +87,8 @@
       "moscato"
     ],
     "year_made": 2014,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Elmo Pio Piemonte Sweet Red Brachetto",
@@ -92,7 +99,8 @@
       "brachetto"
     ],
     "year_made": 2014,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Cavit Pinot Noir",
@@ -103,7 +111,8 @@
       "pinot noir"
     ],
     "year_made": 2014,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Yellowtail Shiraz Grenache",
@@ -115,7 +124,8 @@
       "grenache"
     ],
     "year_made": 2015,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "FAT bastard Shiraz",
@@ -126,7 +136,8 @@
       "shiraz"
     ],
     "year_made": 2013,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Bully Hill Vineyards Love My Goat",
@@ -138,7 +149,8 @@
       "foch"
     ],
     "year_made": 2012,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Castello Banfi Rosso di Montalcino Poggio alle Mura",
@@ -149,7 +161,8 @@
       "sangiovese"
     ],
     "year_made": 2012,
-    "region": "Tuscany"
+    "region": "Tuscany",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Los Vascos Rose",
@@ -161,7 +174,8 @@
       "shiraz"
     ],
     "year_made": 2015,
-    "region": "Colchagua"
+    "region": "Colchagua",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Encanto Mencia Roble",
@@ -172,7 +186,8 @@
       "mencia"
     ],
     "year_made": 2011,
-    "region": "Bierzo"
+    "region": "Bierzo",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Yellowtail Cabernet Sauvignon",
@@ -183,7 +198,8 @@
       "cabernet sauvignon"
     ],
     "year_made": 2015,
-    "region": "not captured"
+    "region": "not captured",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Love Over Money Basca",
@@ -194,7 +210,8 @@
       "cava blend"
     ],
     "year_made": "not captured",
-    "region": "Penedes"
+    "region": "Penedes",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Menage a Trois Merlot",
@@ -205,7 +222,8 @@
       "merlot"
     ],
     "year_made": 2014,
-    "region": "various California vineyards"
+    "region": "various California vineyards",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Turkey Flat Butcher's Block",
@@ -218,7 +236,8 @@
       "mourvedre"
     ],
     "year_made": 2012,
-    "region": "Barossa Valley"
+    "region": "Barossa Valley",
+    "contains_gluten": "not captured"
   },
   {
     "name": "Corte Giara Pinot Grigio",
@@ -229,7 +248,8 @@
       "pinot grigio"
     ],
     "year_made": 2014,
-    "region": "IGT delle Venezie"
+    "region": "IGT delle Venezie",
+    "contains_gluten": "not captured"
   },
   {
     "name": "HRM Rex Goliath Chardonnay",
@@ -240,6 +260,7 @@
       "chardonnay"
     ],
     "year_made": 2015,
-    "region": "Madera"
+    "region": "Madera",
+    "contains_gluten": true
   }
 ]
