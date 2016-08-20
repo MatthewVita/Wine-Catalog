@@ -219,5 +219,16 @@
     ],
     "year_made": 2012,
     "region": "Barossa Valley"
+  },
+  {
+    "name": "Corte Giara Pinot Grigio",
+    "stars": 3.5,
+    "country": "Italy",
+    "color": "white",
+    "grapes": [
+      "pinot grigio"
+    ],
+    "year_made": 2014,
+    "region": "IGT delle Venezie"
   }
 ]
